@@ -16,8 +16,11 @@ A clean and minimal UI for easy use.
 # Technologies Used
 
 React.js: For building the user interface.
+
 JavaScript (ES6+): Core language for logic and interactions.
+
 CSS: Styling the user interface.
+
 HTML5: For structuring the web app.
 
 # Usage
